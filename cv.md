@@ -154,6 +154,16 @@ _2020 09 - Present_
    - Coursera: ‘Introduction to Web Development’
    - Coursera: ‘Programming Foundations with JavaScript, HTML and CSS’
    - Coursera: ‘Using Git for Distributed Development’
+   
+   #### KTU (Kaunas University of Technology): ‘Master's Degree in Economics’
+_2003 - 2005_
+   
+#### KTU (Kaunas University of Technology): ‘Bachelor's Degree in Industry Engineering’
+_1996 - 2001_
+   
+  
+  
+***
 
    
    
