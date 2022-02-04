@@ -164,6 +164,14 @@ _1996 - 2001_
   
   
 ***
+   
+   
+   
+### English 
+   Intermediate English. I improve it all the time by learning programming in online courses, reading literature related to programming, participating in seminars in English. 
+
+  
+
 
    
    
