@@ -140,6 +140,20 @@ _2019 09 - 2020 06_
    - Android App with Android Studio 
    - Software testing, test-driven development
    
+#### Online learning, Courses:
+_2020 09 - Present_
+   - Udemy: ‘The Complete JavaScript Course 2022: From Zero to Expert!’
+   - Udemy: ‘Build Web Apps with Vue JS 3 & Firebase’ 
+   - Udemy: ‘Web Development Masterclass’ 
+   - freeCodeCamp: ‘JavaScript Algorithms and Data Structures’
+   - LinkedIn: ‘JavaScript Essential Training (2017)’
+   - Coursera: ‘Build Your First React Website’
+   - Coursera: ‘Front-End Web Development with React’
+   - Coursera: ‘Introduction to UI Design’
+   - Coursera: ‘Front-End Web UI Frameworks and Tools: Bootstrap 4’
+   - Coursera: ‘Introduction to Web Development’
+   - Coursera: ‘Programming Foundations with JavaScript, HTML and CSS’
+   - Coursera: ‘Using Git for Distributed Development’
 
    
    
